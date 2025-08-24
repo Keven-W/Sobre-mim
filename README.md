@@ -73,9 +73,14 @@
 📌 Frase que me define agora:  
 > “Sou estudante de Ciência da Computação, com forte lógica de programação, domínio em HTML/CSS e prática em projetos front-end. Estou consolidando meu conhecimento em JavaScript, React e Git, e já iniciei estudos em PHP. Tenho perfil colaborativo, liderança natural e estou pronto para evoluir em um time de tecnologia.”  
 
-📊 GitHub Stats  
+📊 GitHub Stats  e tecnologias
+<h3 align="center">Tecnologias que uso</h3>
 
-<div align="center">
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,c,php,git,github"/>
+</p>
+
+<div align = "center">
 
 ![Keven GitHub stats](https://github-readme-stats.vercel.app/api?username=Keven-W&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Keven-W&layout=compact&theme=radical)
