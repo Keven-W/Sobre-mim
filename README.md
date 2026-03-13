@@ -1,127 +1,150 @@
 <h1 align="center">Olá, eu sou o Keven Wendell 👋</h1>
 
-🎓 Estudante de Ciência da Computação (2º semestre)  
-💻 Apaixonado por tecnologia, Front-end e aprendizado contínuo  
+🎓 Estudante de Ciência da Computação (3º semestre)  
+💻 Apaixonado por tecnologia, desenvolvimento web e aprendizado contínuo  
 🚀 Buscando oportunidade de estágio como Desenvolvedor Front-End ou Full Stack Júnior  
 
 ---
 
-## 📌 Resumo Geral — Conhecimentos
+# 📌 Resumo Geral — Conhecimentos
 
-### 🔹 Fundamentos
+## 🔹 Fundamentos
 
-- 🧠 **Raciocínio lógico:** acima da média — consigo deduzir soluções mesmo sem decorar toda sintaxe.  
-- 📚 **Aprendizado ativo:** busco entender o *porquê* das coisas.  
-- ⏳ **Disciplina:** estudo além da faculdade e mantenho consistência.  
+- 🧠 **Raciocínio lógico:** facilidade em deduzir soluções mesmo sem decorar toda a sintaxe.  
+- 📚 **Aprendizado ativo:** busco entender o *porquê* das tecnologias e como funcionam internamente.  
+- ⏳ **Disciplina:** estudo além da faculdade e mantenho constância no desenvolvimento de projetos.  
 
 ---
 
-## 🎨 Front-end
+# 🎨 Front-end
 
-✅ **HTML & Semântica**
-- Estrutura clara com `header`, `main`, `section`, `footer`
-- Boa noção de acessibilidade
-- Pronto para estágio
+### 🟢 HTML — 95%
 
-✅ **CSS & Responsividade**
-- Domínio de `flexbox`, `margin`, `padding`
-- Uso de `@media queries`
-- Projetos: portfólio, linktree, calculadora
+- Estrutura semântica (`header`, `main`, `section`, `footer`)
+- Organização clara do código
+- Boa base de acessibilidade
 
-**Nível:** 8/10
+---
 
-🟡 **JavaScript**
+### 🟢 CSS / Flexbox — 92%
+
+- Layouts responsivos
+- Flexbox
+- Espaçamentos (`margin`, `padding`)
+- Media Queries
+- Construção de interfaces modernas
+
+Projetos desenvolvidos:
+- Portfólio pessoal
+- Linktree
+- Interfaces web
+
+---
+
+### 🟡 JavaScript — 75%
+
 - Condicionais
 - Funções
-- DOM
+- Manipulação do DOM
 - Eventos
-- Diferença entre `let`, `const` e `var`
+- `let`, `const`, `var`
+- Interações e animações
 
-**Nível:** 6/10 *(em evolução)*
+Em constante evolução.
 
-🟡 **React.js**
+---
+
+### 🟡 React — 60%
+
 - JSX
-- Componentes
+- Componentização
+- Estrutura de projetos com Vite
 
-Preciso consolidar:
+Em estudo:
 - Props
 - State
-- Ciclo de vida
-
-**Nível:** 4/10 *(em estudo)*
+- Organização avançada de componentes
 
 ---
 
-## ⚙️ Back-end
+# ⚙️ Back-end
 
-🟡 **PHP**
+### 🟡 PHP — 30%
+
+- Manipulação de formulários
 - `$_GET`
 - `$_POST`
-- Lógica de formulários
 
-Falta prática com MySQL.
-
-**Nível:** 5/10
-
-🔴 **Java**
-- `main`
-- variáveis básicas
-
-Ainda iniciando em orientação a objetos.
-
-**Nível:** 3/10
+Estudando integração com banco de dados.
 
 ---
 
-## 🛠 Ferramentas
+### 🔴 SQL — 15%
 
-✅ **Git & GitHub**
+- Conceitos iniciais de banco de dados
+- Consultas básicas
 
-- `init`
-- `add`
-- `commit`
-- `push`
+---
 
-Estudando:
+### 🔴 Node.js — 10%
+
+- Estudos iniciais
+- Compreensão do ecossistema JavaScript no back-end
+
+---
+
+# 🛠 Ferramentas
+
+### 🟢 Git & GitHub — 70%
+
+Experiência com:
+
+- `git init`
+- `git add`
+- `git commit`
+- `git push`
+
+Estudando também:
 
 - `branch`
 - `merge`
 - `pull`
 
-**Nível:** 6/10
+Utilizo GitHub para **versionamento e publicação de projetos**.
 
 ---
 
-## 🤝 Soft Skills
+# 🤝 Soft Skills
 
 - 👥 Liderança natural  
 - 🗣 Comunicação clara  
-- 💪 Persistência  
+- 💪 Persistência e disciplina  
 
-**Nível:** 9/10
+Essas características me ajudam a colaborar bem em equipe e evoluir rapidamente em novos desafios.
 
 ---
 
-## 🎯 Visão Final
+# 🎯 Visão Geral
 
-- Front-end básico: **pronto para estágio**
+- Front-end: **nível sólido para estágio**
 - Git: **nível júnior funcional**
 - JavaScript e React: **em evolução**
-- PHP: **inicial**
-- Java: **sem prioridade**
+- Back-end: **iniciando base**
+
+Meu foco atual é evoluir para **desenvolvimento Full Stack**.
 
 ---
 
-## 💡 Frase que me define
+# 💡 Frase que me define
 
-> “Sou estudante de Ciência da Computação, com forte lógica de programação, domínio em HTML/CSS e prática em projetos front-end. Estou consolidando meu conhecimento em JavaScript, React e Git, e já iniciei estudos em PHP. Tenho perfil colaborativo, liderança natural e estou pronto para evoluir em um time de tecnologia.”
+> “Sou estudante de Ciência da Computação com forte base em HTML e CSS, boa lógica de programação e experiência em projetos front-end. Estou evoluindo em JavaScript, React e Git, além de iniciar estudos em back-end com Node.js e banco de dados. Busco minha primeira oportunidade para aplicar e expandir minhas habilidades em um ambiente profissional.”
 
 ---
 
 # 🚀 Tecnologias
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,c,php,git,github"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,c,php,git,github,nodejs"/>
 </p>
 
 ---
@@ -138,6 +161,18 @@ Estudando:
 
 ---
 
+
+
+<p align="center">
+<img src="https://media.tenor.com/fCX10tiv254AAAAi/%E3%83%9E%E3%83%AA%E3%82%AA-mario.gif" width="90"/>
+</p>
+
+<p align="center">
+<sub>Leveling up my skills one commit at a time 🚀</sub>
+</p>
+
+---
+
 # 🌐 Onde me encontrar
 
 💼 LinkedIn  
@@ -147,4 +182,4 @@ https://www.linkedin.com/in/kevenw/
 keven.w.1107@gmail.com
 
 🌎 Portfólio  
-*https://keven-w.github.io/Keven-portf-lio/*
+https://keven-w.github.io/Keven-portf-lio/
